@@ -150,9 +150,8 @@ By following these instructions and understanding the purpose of each component,
 
 ## Helpful Links
 - Plex API Documentation: https://python-plexapi.readthedocs.io/en/latest/
-- Finding Your Plex Token: https://support.plex.tv/articles/204059436-finding-an-authentication-token-x-plex-token/
+- Finding Your Plex Token: (https://support.plex.tv/articles/204059436-finding-an-authentication-token-x-plex-token/)
 
-
- ** Thank You 
+# Thank You 
 
 A huge thank you to everyone who contributed to the development of the AutoNextEpisode plugin. Your dedication, expertise, and collaborative spirit were essential in bringing this project to life. Special thanks to the developers and contributors from the SyncLounge. Additionally, a quick thank you to all my personal friends who contributed their time and support. This project would not have been possible without your hard work and support. Thank you for your commitment and contributions!
