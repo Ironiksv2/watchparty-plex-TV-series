@@ -44,6 +44,8 @@ export CHECK_INTERVAL=30
 - Logs are generated to provide insights into the plugin's operations and help identify any issues. Logs include information about the current episode, time left, and any errors encountered during playback synchronization.
 
 ## Development
+To develop the AutoNextEpisode plugin, we started with code snippets from various sources. The primary codebase came from the SyncLounge GitHub repository (https://github.com/synclounge/synclounge), which provided a foundation for synchronizing Plex playback across multiple clients. We integrated code to handle Plex's internal APIs for managing play queues and session monitoring. Throughout the process, we customized the code to meet the specific needs of advancing to the next episode during "Watch Together" sessions and ensuring playback synchronization. We also referenced Plex's internal API documentation and existing Plex plugins for guidance on structure and functionality. This collaborative effort resulted in a comprehensive plugin that enhances the user experience for group viewing sessions on Plex.
+
 
 ### Prerequisites
 - Ensure the `plexapi` library is installed. You can install it using pip:
