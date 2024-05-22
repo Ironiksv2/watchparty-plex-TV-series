@@ -1,6 +1,6 @@
-# Plexwatch-for-series
+# Plexwatch-for-series - Plex watch together for tv show (Help with Testing)
 code - https://github.com/Ironiksv2/watchparty-plex-TV-series/tree/main/Code
-Plex watch together for tv show (Help with code)
+
 
 
 Description
