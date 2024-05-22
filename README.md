@@ -3,7 +3,11 @@ code - https://github.com/Ironiksv2/watchparty-plex-TV-series/tree/main/Code
 
 
 
-# Plexwatch-for-series - Plex Watch Together for TV Shows
+
+
+
+
+
 
 ## Description
 The AutoNextEpisode plugin for Plex Media Server is designed to automatically advance to the next episode during "Watch Together" sessions and keep playback synchronized across all participants. This ensures a seamless viewing experience for all users, especially during binge-watching sessions.
