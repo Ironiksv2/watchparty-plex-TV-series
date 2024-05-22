@@ -150,7 +150,7 @@ By following these instructions and understanding the purpose of each component,
 
 ## Helpful Links
 - Plex API Documentation: https://python-plexapi.readthedocs.io/en/latest/
-- Finding Your Plex Token: (https://support.plex.tv/articles/204059436-finding-an-authentication-token-x-plex-token/)
+- Finding Your Plex Token: https://support.plex.tv/articles/204059436-finding-an-authentication-token-x-plex-token/
 
 # Thank You 
 
